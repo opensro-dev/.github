@@ -6,5 +6,5 @@ A new Go server and a WebGPU client. Unofficial fan project.</p>
 <p align="center">
   <a href="https://opensro.online">Website</a> ·
   <a href="https://discord.gg/RUua9HY657">Discord</a> ·
-  <a href="https://ko-fi.com/skillman1337">Support on Ko-fi</a>
+  <a href="https://ko-fi.com/opensro">Support on Ko-fi</a>
 </p>
